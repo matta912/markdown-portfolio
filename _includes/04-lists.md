@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favorite things
+- Detective Shows
+- Music, all kinds
+- Sports - especially College Sports
+- Pizza
+- IPAs
